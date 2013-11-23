@@ -1,4 +1,4 @@
 ooziengine
 ==========
 
-tool for hadoop job manager, support map-reduce, hdfs move/delete, sqoop, pig and java function.
+It's a tool for manage hadoop job. It supports map-reduce, hdfs move/delete, sqoop, pig and java function.
