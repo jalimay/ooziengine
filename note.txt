@@ -1,0 +1,4 @@
+workflow 定义一组业务操作的配置，可以使用xml,json或数据库来进行业务描述。也定义了这组业务操作的引擎类型。
+engine 一个workflow的执行引擎，有多种运行类型。
+action 一个具体的业务操作内容，一个workflow中常常会含有多个action，每个action中可以包含至少一个operator，比如同步销量数据，可以看作一个业务操作。
+operator 可以理解为某个业务操作中的一个执行细节，比如删除一个文件，执行一个job。
